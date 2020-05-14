@@ -8,8 +8,8 @@ Download and install Mindi simulation tool from XXXX
 Download and install Mindi model for AVR DB device
 
 ### Simulation
-Download and open the Mindi schematic from XXX
-Press the 'play' button to simulate with a sample source
+Download and open the **Mindi schematic [here](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/releases/download/0.0/VF2.wxsch)**
+Press the _play_ button to simulate with a sample source
 
 ### Tweaking
 Adjust the resistor ladder by XXX
