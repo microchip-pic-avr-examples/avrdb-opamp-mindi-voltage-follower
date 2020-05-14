@@ -1,7 +1,7 @@
 # Getting started with Mindi simulation using AVR DB
-
-## Configuration: voltage follower
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
+## Configuration: voltage follower
+Voltage follower does XXX
 
 ### Requirements
 Download and install Mindi simulation tool from XXXX
