@@ -1,4 +1,4 @@
-# Getting started with Mindi simulation using AVR DB
+# Getting started with Mindi® simulation and AVR®DB microcontrollers
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
 ## Configuration: voltage follower
 Voltage follower is an opamp configuration in which the output voltage tracks the input voltage.  Also known as a unity gain amplifier.
