@@ -3,9 +3,11 @@ This guide will get you up and running with simulating the analog OPAMP module i
 ## Configuration: voltage follower
 Voltage follower is an opamp configuration in which the output voltage tracks the input voltage.  Also known as a unity gain amplifier.
 
-![Volatge Follower](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/blob/master/images/configuration.png)
+![Voltage Follower](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/blob/master/images/configuration.png)
 
-### Simulation
+### Mindi Simulation
+<img src="images/mplab-mindi-analog-simulator.png" width="100"/>
+
 Download and open the **Mindi schematic [here](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/releases/download/0.0/VF2.wxsch)**
 
 Press the _play_ button to simulate with an example stimulus source.
