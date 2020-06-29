@@ -12,7 +12,7 @@ Download and open the differential **Mindi schematic [here](https://github.com/x
 
 Download and open the follower **Mindi schematic [here](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/releases/latest/download/Voltage_Follower.wxsch)**
 
-Also download and open the relative follower **Mindi schematic [here](/releases/latest/download/Voltage_Follower.wxsch)**
+Also download and open the semi-relative follower **Mindi schematic [here](xedbg/Mindi_AVRDB_voltagefollower/releases/latest/download/Voltage_Follower.wxsch)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
