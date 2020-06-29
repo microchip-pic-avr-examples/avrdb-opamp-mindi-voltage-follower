@@ -8,7 +8,7 @@ Voltage follower is an opamp configuration in which the output voltage tracks th
 ### Mindi Simulation
 <img src="images/mplab-mindi-analog-simulator.png" width="100"/>
 
-Download and open the **Mindi schematic [here](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/releases/download/0.0/VF2.wxsch)**
+Download and open the **Mindi schematic [here](https://github.com/xedbg/Mindi_AVRDB_voltagefollower/releases/download/latest/VF2.wxsch)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
