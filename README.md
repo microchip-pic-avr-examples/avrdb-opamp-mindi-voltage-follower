@@ -9,7 +9,7 @@ Voltage follower is an op amp configuration in which the output voltage tracks t
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](schematics/Voltage_Follower.wxsch)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/avrdb-opamp-mindi-voltage-follower/releases/latest)**
 
 
 Press the _play_ button to simulate with an example stimulus source.
