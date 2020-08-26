@@ -1,7 +1,7 @@
 pipeline {
     agent {
         kubernetes {
-            label 'avrdb-opamp-mindi-voltage-follower
+            label 'avrdb-opamp-mindi-voltage-follower'
 			defaultContainer ' mindi-debian'
             yamlFile '.citd/cloudprovider.yml'
         }
